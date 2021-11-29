@@ -10,5 +10,4 @@ I believe in that technology brodening our living range can solve many problems 
 
 Email: tobedynamic@kaist.ac.kr
 
-<img src="https://img.shields.io/badge/C-orange?style=flat-square"/>
-<img src="https://img.shields.io/badge/C++-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/C-orange?style=flat-square"/> <img src="https://img.shields.io/badge/C++-orange?style=flat-square"/> <img src="https://img.shields.io/badge/Python-orange?style=flat-square"/>
