@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello. I'm Jaewoo Kim.
+
+I usually use github to document what I've done and what I'm doing now, especially coding stuffs.
+
+I'm currently start master's degree as a member of [SAI(Strategic Aerospace Initivative) Lab.](http://sai.kaist.ac.kr/saihomepage/)
 
 <!--
 **CtrlK79/CtrlK79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
