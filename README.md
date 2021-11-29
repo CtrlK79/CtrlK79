@@ -1,4 +1,4 @@
-### Hello. I'm Jaewoo Kim.
+### Hello. I'm Jaewoo Kim 😎
 
 I usually use github to document what I've done and what I'm doing now, especially coding stuffs.
 
@@ -10,3 +10,4 @@ I believe in that technology brodening our living range can solve many problems 
 
 Email: tobedynamic@kaist.ac.kr
 
+<img src="https://img.shields.io/badge/C-orange?style=flat-square&logo=simpleicons&logoColor=white"/></a>&nbsp 
