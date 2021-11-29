@@ -4,7 +4,7 @@ I usually use github to document what I've done and what I'm doing now, especial
 
 I currently start master's program as a member of [SAI(Strategic Aerospace Initivative) Lab.](http://sai.kaist.ac.kr/saihomepage/) after graduating from Seoul Nat. Univ.(major: Machanical and Aerospace Engineering), Seoul, Korea.
 
-I mainly put my interest on **making outer space environment economically feasible**. 
+I mainly put my interest on **making outer space environment economically accessible**. 
 
 I believe in that technology brodening our living range can solve many problems we encounter, and something that deserves my time and resources must be in this field.
 
