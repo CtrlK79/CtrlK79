@@ -2,7 +2,7 @@
 
 I usually use github to document what I've done and what I'm doing now, especially coding stuffs.
 
-I currently start master's program as a member of [SAI(Strategic Aerospace Initivative) Lab.](http://sai.kaist.ac.kr/saihomepage/) after graduating from Seoul Nat. Univ.(major: Machanical and Aerospace Engineering), Seoul, Korea.
+I currently start master's program as a member of [SAI(Strategic Aerospace Initivative) Lab.](http://sai.kaist.ac.kr/saihomepage/) after graduating from Seoul Nat. Univ.(major: [Machanical and Aerospace Engineering](https://aerospace.snu.ac.kr/)), Seoul, Korea.
 
 I mainly put my interest on **making outer space environment economically accessible**. 
 
